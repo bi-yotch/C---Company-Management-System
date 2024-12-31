@@ -1,0 +1,14 @@
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\bin\Debug\net8.0\C# - Company Management System.exe
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\bin\Debug\net8.0\C# - Company Management System.deps.json
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\bin\Debug\net8.0\C# - Company Management System.runtimeconfig.json
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\bin\Debug\net8.0\C# - Company Management System.dll
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\bin\Debug\net8.0\C# - Company Management System.pdb
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\obj\Debug\net8.0\C# - Company Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\obj\Debug\net8.0\C# - Company Management System.AssemblyInfoInputs.cache
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\obj\Debug\net8.0\C# - Company Management System.AssemblyInfo.cs
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\obj\Debug\net8.0\C# - Company Management System.csproj.CoreCompileInputs.cache
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\obj\Debug\net8.0\C# - Company Management System.dll
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\obj\Debug\net8.0\refint\C# - Company Management System.dll
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\obj\Debug\net8.0\C# - Company Management System.pdb
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\obj\Debug\net8.0\C# - Company Management System.genruntimeconfig.cache
+C:\Users\gemst\Desktop\Coding\C# - Company Management System\obj\Debug\net8.0\ref\C# - Company Management System.dll
